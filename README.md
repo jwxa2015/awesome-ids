@@ -13,4 +13,7 @@ Focus on free and open source projects.
 -  [OPNsense/rules](https://github.com/opnsense/rules) OPNsense IDS/IPS rules
 
 ## Articles
-- [Developing a high-accuracy cross platform Host-Based Intrusion Detection System capable of reliably detecting zero-day attacks](docs/Developing\ a\ high-accuracy\ cross\ platform\ Host-Based\ Intrusion\ Detection\ System\ capable\ of\ reliably\ detecting\ zero-day\ attacks.pdf)
+
+> All articles are from the Internet. If infringement is involved, please contact me to delete them.
+
+- [Developing a high-accuracy cross platform Host-Based Intrusion Detection System capable of reliably detecting zero-day attacks](docs/Developing a high-accuracy cross platform Host-Based Intrusion Detection System capable of reliably detecting zero-day attacks.pdf)
