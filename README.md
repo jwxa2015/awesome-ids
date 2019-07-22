@@ -11,3 +11,6 @@ Focus on free and open source projects.
 
 - [yulong-hids](https://github.com/ysrc/yulong-hids) 驭龙HIDS是一款由 YSRC 开源的入侵检测系统
 -  [OPNsense/rules](https://github.com/opnsense/rules) OPNsense IDS/IPS rules
+
+## Articles
+- [Developing a high-accuracy cross platform Host-Based Intrusion Detection System capable of reliably detecting zero-day attacks](docs/Developing\ a\ high-accuracy\ cross\ platform\ Host-Based\ Intrusion\ Detection\ System\ capable\ of\ reliably\ detecting\ zero-day\ attacks.pdf)
